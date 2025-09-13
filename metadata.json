@@ -1,0 +1,7 @@
+{
+  "name": "VillaQuest Scavenger Hunt",
+  "description": "An application for a 'Scavenger Hunt' style game for villa guests, inspired by Eventzee. Guests complete tasks like scanning QR codes, taking photos (verified by AI), answering questions, or using GPS to earn points and claim rewards, increasing engagement and providing valuable business insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
